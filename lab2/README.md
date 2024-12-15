@@ -1,4 +1,4 @@
-# MIS_2024
+# Laboratory exercise 2
 
 
 
